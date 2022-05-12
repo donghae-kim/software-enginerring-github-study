@@ -13,8 +13,3 @@ filled with Roses of Sharon;
 Great Korean People,
 stay true to the Great Korean way.
 
-<<<<<<< Updated upstream
-pullpull
-=======
-파일1 처리중
->>>>>>> Stashed changes
